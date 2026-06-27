@@ -1,0 +1,8 @@
+# No system packages are required.
+#
+# This build is deterministic (pdfplumber text extraction only) and needs
+# neither poppler-utils nor tesseract-ocr. If you later add OCR support for
+# scanned/handwritten forms, uncomment the following:
+#
+# poppler-utils
+# tesseract-ocr

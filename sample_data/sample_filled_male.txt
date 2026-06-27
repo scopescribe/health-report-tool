@@ -1,0 +1,62 @@
+MALE
+Patient Name John A. Sample ID 100482 Exam Date June 4, 2026
+[ ] on medication
+Blood Pressure: 116/78 [x] Normal [ ] Borderline Elevated [ ] Elevated [ ] Very high MACRO____
+Pulse: 58 [x]Reg. [ ]Irreg.
+Biometrics: Pulse Ox% 98 Temperature 98.4
+Height 70 in. Weight 172 lbs. Ideal weight 165 or less BMI 24.0 MACRO_____
+Vision: Far: Left 20/30 Right 20/40 [ ] with [x] without correction
+Near: Left 20/40 Right 20/30 [ ] with [x] without correction
+Far: [x] Normal [ ] Decreased right [ ] Decreased left [ ] Decreased both
+Near: [x] Normal [ ] Decreased right [ ] Decreased left [ ] Decreased both
+[ ]Please follow up with an ophthalmologist. [ ]Please follow up with an Optometrist. [ ]See below MACRO_____
+Tonometry Left: 14 Right: 15 [x] Normal [ ] High ([ ] L [ ] R)
+[ ]Please follow up with an ophthalmologist. [ ]Please follow up with an Optometrist. [ ]See below MACRO_____
+Color Vision: [x] Normal [ ] Abnormal [ ]See below [ ] Other __________________ MACRO_____
+Hearing: 250 500 1000 2000 3000 4000 6000 8000 Hz
+Right 10 10 10 15 25 35 40 45 dB
+Left 10 10 10 15 30 40 45 50 dB
+[ ] Normal [ ] Decr R [ ] Decr L [x] Decr HF R [x] Decr HF L [ ] Chronic hearing loss [ ] Bilateral
+[ ] Please follow up with ENT / Audiologist MACRO_______
+EKG: [x]Normal [ ]Abnormal, see below [ ]Normal, see below [ ]See below MACRO______
+CST:[ ]Normal [ ]Abnormal, see below [ ]Normal, see below [ ]See below [ ]Negative for Ischemia MACRO____
+Cholesterol Profile: [ ] on medication
+Total Cholesterol 187 (Hi, low, normal, good)
+HDL Cholesterol 62 (Hi, low, normal, good)
+LDL Cholesterol 107 (Hi, low, normal, good)
+Triglycerides 86 (Hi, low, normal, good)
+Cholesterol/HDL 3.0 (Hi, low, normal, good, All good)
+Recommendations: [ ]Please review with your physician [ ]Medical management is recommended [ ]See below
+Diabetes: Glucose 104 [ ]Normal [x]Borderline [ ]Elevated
+A1c 5.3 [x]Normal [ ]Borderline [ ]Elevated [ ]Pre-diabetes MACRO_______
+Smoking: [ ] Smoker [ ] Non-smoker [x] Former smoker MACRO_______
+[ ] Recommended [ ] UTD [ ] Review screening recommendations with your Physician [ ]See below
+Colon cancer Screening: [x]Up-to-date [ ]Recommended [ ]See below [ ]at 45 yo MACRO__________
+Prostate Cancer Screening: Prostate Exam [x] Normal [ ] UTD [ ] Declined [ ] N/A [ ] Other
+PSA 0.24 [x] Normal [ ] Elevated [ ]See below
+Recommendations: [x]Annual prostate screening [ ]UTD [ ]Recommended at 40 [ ]Recommended at 45 [ ]Recommended at 50
+[ ]Follow up with Urologist MACRO______
+Dermatology Screening: [ ]UTD [ ]Family hx of skin cancer [ ]Recommended [x]See below MACRO__________
+Complete Blood Count: [x]Normal [ ]WBC's [ ]Platelets [ ]Anemia [ ]Hemoglobin [ ]Hematocrit [ ]N/S MACRO______
+Blood Chemistries: [x] Normal [ ] ALT [ ] AST [ ] GGT [ ] Iron [ ] Transferrin Saturation [ ] Bilirubin
+[ ] Uric Acid Other __________________________[ ] N/S MACRO _______________________
+Urinalysis: [ ] Normal [ ] WBC's [ ] RBC's [ ] Squamous Epithelial cells [ ] Bacteria [x] Leukocyte Esterase
+[ ] Protein [ ] Ketones [ ] Other____________________ [ ] N/S MACRO______________________
+TSH 1.8 : T4: 1.2 MACRO__________
+B12: 2.76 Folate: 11.0 MACRO__________
+Vitamin D: 70 MACRO__________
+OTHER:_______________________________________
+STI Screening: [x] Negative [ ] Herpes simplex ________ [ ] Other _______________ MACRO____________
+HIV Cover Letter: [ ] YES
+Recommended Vaccinations: [x] Influenza [ ] Tetanus (Tdap) [ ] Shingles [ ] Pneumococcal [ ] HPV
+[ ] Covid Booster [ ] Other_______________________
+Exercise Status: [x] Regular exercise [ ] Limited exercise [ ] No exercise [ ] ___________________
+Recommendations: [x]Continue exercise regimen [ ]Cardiovascular exercises recommended
+[ ]Resistance exercises recommended [ ]See below MACRO________
+CRP: 0.8 [x] Normal [ ] Elevated [ ] Other__________________________ MACRO________
+Pulmonary Function: [x] Normal [ ] Obstructive pattern [ ] Restrictive pattern [ ] Mild [ ] Moderate MACRO________
+Chest X-Ray: [x] Normal [ ] Other_________________________ MACRO________
+Bone Densitometry: [ ] Normal [ ] Up-to-date [ ] Recommended [ ] Other _________________________ MACRO__________
+All Other Recommendations:
+Follow up with HSS Hand surgery.
+Continue current exercise regimen and recheck lipids in 12 months.
